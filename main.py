@@ -9,15 +9,16 @@ You should have received a copy of the CC0 Public Domain Dedication along with t
 from discord.ext import commands, tasks
 import discord
 import asyncpg
-import asyncio
 import psutil
 
 import datetime
-import time
 import re
 import os
 
 import config #! You'll need to define your own credentials in config.py
+
+bot_intents = discord.Intents.default()
+bot_intents.members = True
 
 bot = commands.Bot(
     command_prefix=commands.when_mentioned,
@@ -25,7 +26,7 @@ bot = commands.Bot(
     case_insensitive=True,
     help_command=None,
     status=discord.Status.invisible,
-    intents=discord.Intents(members=True),
+    intents=bot_intents,
     fetch_offline_members=True
 )
 
