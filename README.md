@@ -8,11 +8,11 @@ Written in 2019 by NinjaSnail1080 (Discord user: @NinjaSnail1080#8581)
 
 ---
 
-Discord has banned my bot. They straight up told me in an email a few months ago, that my bot DID NOT break their terms of service, and so they weren't going to take "drastic action". That turned out to be a lie, because they banned it anyway.
+Discord has banned my bot. They told me in an email several months ago that my bot DID NOT break their terms of service, and so they weren't going to take "drastic action". However, they since said that because so many people were using selfbots and macros to spam the n-word 24/7, it was actually causing a strain on Discord's servers, and that's why they banned it.
 
 Due to popular request, I've made the source code for the bot public so that anyone can download it and run their own instance of N-Word Counter. I decided to license it under CC0, which dedicates the work to the public domain. This means anyone can use it however they like without worrying about copyright. See `LICENSE.txt` for more details.
 
-If you choose to self-host the bot 24/7, send me an invite link and I'll add it to a list on the [Discord server](https://discord.gg/khGGxxj). That way people who don't know how to self-host will still be able to have an n-word counter bot on their server.
+If you choose to self-host the bot 24/7, send me an invite link and I'll add it to [this list](https://github.com/NWordCounter/bot/blob/master/List_of_clones.md). That way people who don't know how to self-host will still be able to have an n-word counter bot on their server.
 
 ## Self-Hosting
 
