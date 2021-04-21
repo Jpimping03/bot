@@ -16,4 +16,6 @@ A list of clones of the original N-Word Counter that people are hosting. If you 
 
 - [NWordCounter](https://discord.com/api/oauth2/authorize?client_id=807438076082126908&permissions=347200&scope=bot) **Owner**: Ven#0727, **Prefix**: @mention
 
-- [NWordCounter](https://discordapp.com/oauth2/authorize?client_id=820878866972540952&scope=bot&permissions=8) **Owner**: not meow#3504, **Prefix**: @mention
+- [NWordCounter](https://discordapp.com/oauth2/authorize?client_id=820878866972540952&scope=bot&permissions=8) **Owner**: !meow#8650, **Prefix**: @mention
+
+- [NWordCounter2](https://discordapp.com/oauth2/authorize?client_id=834317633398636554&scope=bot&permissions=8) **Owner**: !meow#8650, **Prefix**: @mention
