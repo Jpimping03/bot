@@ -4,8 +4,6 @@ A list of clones of the original N-Word Counter that people are hosting. If you 
 
 - [N-Word Counter 2.0](https://discordapp.com/oauth2/authorize?client_id=754104299700617237&scope=bot&permissions=8) **Owner**: AIan#1565, **Prefix**: @mention
 
-- [N-Word Counter](https://discord.com/oauth2/authorize?client_id=756594277110251651&scope=bot&permissions=8) **Owner**: XoAlone#0001, **Prefix**: $
-
 - [N-Word Counter Deluxe](https://discordapp.com/oauth2/authorize?client_id=759423458659532890&scope=bot&permissions=8) **Owner**: MVDW#0001, **Prefix**: @mention
 
 - [N-Word Counter Deluxe 2](https://discord.com/oauth2/authorize?client_id=772916331552440350&scope=bot&permissions=8) **Owner**: MVDW#0001, **Prefix**: @mention
@@ -14,8 +12,8 @@ A list of clones of the original N-Word Counter that people are hosting. If you 
 
 - [N-WordCounter++](https://discordapp.com/oauth2/authorize?client_id=803736066640052224&scope=bot&permissions=8) **Owner**: auguzanellato#7596, **Prefix**: ,
 
-- [NWordCounter](https://discord.com/api/oauth2/authorize?client_id=807438076082126908&permissions=347200&scope=bot) **Owner**: Ven#0727, **Prefix**: @mention
-
 - [NWordCounter](https://discordapp.com/oauth2/authorize?client_id=820878866972540952&scope=bot&permissions=8) **Owner**: !meow#8650, **Prefix**: @mention
 
 - [NWordCounter2](https://discordapp.com/oauth2/authorize?client_id=834317633398636554&scope=bot&permissions=8) **Owner**: !meow#8650, **Prefix**: @mention
+
+- [NWordCounter3](https://discord.com/oauth2/authorize?client_id=839921798065946654&scope=bot&permissions=8) **Owner**: !meow#8650, **Prefix**: @mention
