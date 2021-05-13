@@ -30,8 +30,14 @@ Do `python3 -m venv <path to repository>`
 
 Run `python3 -m pip install -U -r REQUIREMENTS.txt`
 
-5. **Create a database in PostGreSQL**
+5. **Create a database in PostgreSQL**
 
+
+## Self-Hosting in Docker
+
+1. **Clone this repo**
+2. **Edit and rename `config.py.example`.**
+Do `docker-compose up`
 You will need version 9.5 or higher. The database will store the n-word count for each user. There's no centralized database.
 
 6. **Setup configuration**
