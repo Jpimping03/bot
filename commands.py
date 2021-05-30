@@ -126,7 +126,9 @@ class Commands(commands.Cog):
 
         await ctx.send("Here's my invite link so I can count N-words on your server too:\n"
                        f"https://discordapp.com/oauth2/authorize?client_id={self.bot.app_info.id}"
-                       "&scope=bot&permissions=8")
+                       "&scope=bot&permissions=8 \n"
+                       "If I am already in 100 servers, you can add a clone of me here!\n"
+                       "https://github.com/NWordCounter/bot/blob/master/List_of_clones.md")
 
     @commands.command()
     async def stats(self, ctx):
